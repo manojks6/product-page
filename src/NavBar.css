@@ -1,0 +1,47 @@
+.navbar {
+     display: flex;
+     align-items: center;
+     padding: 1rem;
+     background-color: #551722;
+
+   }
+   .navbar-list {
+    justify-content: space-between; 
+     list-style:none;
+     display: flex;
+   }
+   
+   .navbar-item {
+     margin-right: 50px;
+     font-size:larger;
+     color: white;
+   }
+   .navbar-item:hover{
+    cursor: pointer;
+    color: gainsboro;
+  }
+   .navbar-link {
+     text-decoration: none;
+     font-weight: bold;
+   }
+   .SearchBox{
+    display:flex;
+    margin-top: 1px;
+    input{
+      height: 20px;
+      width: 160px;
+      border: 1px #551722 ;
+      border-top-left-radius: 15px;
+      border-bottom-left-radius: 15px;
+    }
+    img{
+      border-left: 1px solid black;
+      cursor: pointer;
+      height: 22px;
+      width: 40px;
+      border-top-right-radius: 50px;
+      border-bottom-right-radius: 50px;
+
+    }
+    
+   }

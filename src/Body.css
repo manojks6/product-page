@@ -1,0 +1,15 @@
+.main_body{
+     /* background-color:#8DE4AF;  */
+}
+.row{
+     margin:0px 0px 0px  40px;
+     padding-top: 20px;
+     padding-left: 0px;
+     display: flex;
+     
+}
+.Items{
+     margin: 0px 9px 0px 0px;
+     height: 100%;
+     padding: 0px;
+}

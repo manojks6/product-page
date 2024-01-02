@@ -1,0 +1,22 @@
+.Product{
+     text-align: center;
+     padding: 0px;
+     height: 400px;
+     width: 250px;
+     margin: 0px;
+     background-color: hsl(0, 18%, 55%);
+     border-radius: 20px;
+}
+img{
+     height: 280px;
+     border-radius: 5px;
+     width: 250px;
+}
+.Name{
+     color: black;
+}
+.Price{
+     text-decoration:solid !important;
+     color:#F1EFF2;
+}
+
