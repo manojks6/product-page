@@ -15,7 +15,10 @@ img{
      border-top-right-radius: 20px; */
 }
 .Name{
+     padding-left: 8px;
+     padding-right: 8px;
      color: black;
+     text-align:center;
 }
 .Price{
      text-decoration:solid !important;
