@@ -1,3 +1,4 @@
+![Demo](https://github.com/manojks6/product-page/assets/118463406/76a427ae-c24a-447d-8a42-b291a67fd9cc)
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
