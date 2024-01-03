@@ -1,3 +1,10 @@
 .App{
     background-color: #943E61;
 }
+.NavBar{
+    width: 1500px !important;
+    position: fixed;
+}
+.Body_{
+    padding-top: 100px;
+}
